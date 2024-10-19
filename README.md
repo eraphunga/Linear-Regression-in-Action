@@ -1,4 +1,4 @@
-# **Linear Regression in Action
+# **Linear Regression in Action**
 
 This project focuses on predicting house sale prices in Ames, Iowa, using multiple linear regression techniques. The model aims to determine the relationships between various housing features (e.g., square footage, number of bedrooms, etc.) and sale prices, providing a powerful tool for real estate analysis.
 
